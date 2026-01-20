@@ -1,0 +1,2 @@
+# Игнорировать папку 'node_modules' и все внутри неё
+node_modules/
